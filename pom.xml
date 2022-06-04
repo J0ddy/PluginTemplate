@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<!-- Change to your own main package name. -->
-	<groupId>org.mineacademy</groupId>
+	<groupId>dev.joddy</groupId>
 	
 	<!-- Change to your plugin name, must be lower cased and match your end package name. No spaces. -->
 	<artifactId>plugintemplate</artifactId>
@@ -21,10 +21,10 @@
 	<properties>
 		
 		<!-- Change to your name or the main project author. -->
-		<author>kangarko</author>
+		<author>Joddy</author>
 		
 		<!-- Change to the full path where your main plugin class is located. -->
-		<main.class>org.mineacademy.template.PluginTemplate</main.class>
+		<main.class>dev.joddy.template.PluginTemplate</main.class>
 		
 		<!-- Change the Java version this plugin is built on.
 
